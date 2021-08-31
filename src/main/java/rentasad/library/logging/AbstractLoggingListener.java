@@ -1,4 +1,4 @@
-package rentasad.rentasad.library.logging;
+package rentasad.library.logging;
 
 import java.util.ArrayList;
 import java.util.List;
