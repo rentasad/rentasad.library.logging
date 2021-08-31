@@ -1,4 +1,4 @@
-package rentasad.rentasad.library.logging;
+package rentasad.library.logging;
 
 import org.apache.log4j.ConsoleAppender;
 import org.apache.log4j.Logger;
